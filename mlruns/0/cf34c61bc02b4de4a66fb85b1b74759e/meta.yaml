@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf34c61bc02b4de4a66fb85b1b74759e/artifacts
+end_time: 1761076994337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf34c61bc02b4de4a66fb85b1b74759e
+run_name: stylish-jay-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761076994114
+status: 3
+tags: []
+user_id: hanzl

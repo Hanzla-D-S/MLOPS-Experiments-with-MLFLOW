@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7baace3be4e14236811b37b117b49f53/artifacts
+end_time: 1761076670096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7baace3be4e14236811b37b117b49f53
+run_name: valuable-wasp-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761076669896
+status: 3
+tags: []
+user_id: hanzl
